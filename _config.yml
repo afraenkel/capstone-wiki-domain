@@ -1,0 +1,7 @@
+safe: true
+title: "Capstone Domain: Wikipedia"
+source: .
+destination: _site
+url: "https://afraenkel.github.io"
+baseurl: "/capstone-wiki-domain"
+permalink: /:url/
