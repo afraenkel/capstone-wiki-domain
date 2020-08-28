@@ -7,7 +7,7 @@ permalink: /
 
 Data science capstone domain of inquiry (DSC 180AB B04)
 
-Developed by Keng-chi Chang, Aaron Fraenkel, Molly Roberts
+Developed by Keng-Chi Chang, Aaron Fraenkel, Molly Roberts
 
 ---
 * TOC
