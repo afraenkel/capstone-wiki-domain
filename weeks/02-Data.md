@@ -16,13 +16,16 @@ This week's assignments will guide you through the following topics:
 ## Reading
 
 Please read the following:
-* reading 1
+* Browse the Wikimedia. Data Dumps
+  Page. [[Link]](https://meta.wikimedia.org/wiki/Data_dumps).
 * reading 2
 
 ## Tasks
 
 Complete the following tasks:
-* task 1
+* Wikimedia. Data
+  Archives. [[Link]](https://dumps.wikimedia.org/backup-index.html)
+  Download some snippets and read it. 
 * task 2
 
 ## Weekly Questions
