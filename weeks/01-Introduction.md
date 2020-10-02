@@ -33,7 +33,7 @@ Complete the following task:
 
 ## Weekly Questions
 
-Answer the following questions:
+Answer the following questions on Canvas:
 * Misinformation and misdirection have long existed in democratic
   debate. In what ways does the internet (and online platforms) make
   this a more difficult problem to deal with?
