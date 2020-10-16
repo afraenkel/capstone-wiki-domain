@@ -112,7 +112,7 @@ end of the quarter.
 
 # Office Hours
 
-
+Fridays 10-11AM
 
 
 
