@@ -6,6 +6,8 @@ doodle: /doodle.png
 
 # Bots and the M-Statistic
 
+NOTE: we will be meeting on FRIDAY at 10AM, due to the Veteran's Day Holiday.
+
 ## Topics
 
 This week's assignments will guide you through the following topics:
