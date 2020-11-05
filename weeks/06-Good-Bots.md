@@ -24,13 +24,24 @@ Please read the following:
   of the ACM on Human-Computer
   Interaction
   [[Link]](https://upload.wikimedia.org/wikipedia/commons/f/f4/Operationalizing-conflict-bots-wikipedia-cscw-preprint.pdf)
+* Read the [Bot
+  Policy](https://en.wikipedia.org/wiki/Wikipedia_talk:Bot_policy)
+  page.
   
 ## Tasks
 
 Complete the following tasks:
-* an EDA on bot edit activity on Wikipedia
-* describe the role that the bot XXXX plays on wikipedia.
-
+* Continue to compute/optimize the M-Statistic for all English Wikipedia Articles.
+* Perform an EDA on bot edit activity on Wikipedia.
+* Describe the role(s) that
+  [RussBot](https://en.wikipedia.org/w/index.php?title=User:RussBot&oldid=900825150)
+  plays on wikipedia. Can you find it in the light-dumps data? Can you
+  find a pattern to when it edits? Does that pattern match with the user-page?
+  
 ## Weekly Questions
 
-Answer the following questions
+Answer the [standard participation
+questions](https://dsc-capstone.github.io/assignments/quarter-1-participation/)
+
+And, remember, the EDA on the english light dump data is due this
+coming Friday!
